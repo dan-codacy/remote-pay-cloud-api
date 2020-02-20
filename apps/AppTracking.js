@@ -18,6 +18,8 @@ var AppTracking = function() {
   this.applicationVersion = undefined;
   this.sourceSDK = undefined;
   this.sourceSDKVersion = undefined;
+  this.dansBadVar = undefined;
+  this.should_be_camel_case = undefined
 };
 
 
